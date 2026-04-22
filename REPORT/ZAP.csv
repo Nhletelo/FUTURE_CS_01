@@ -1,0 +1,134 @@
+Processed,Method,URI,Flags
+true,GET,https://juice-shop.herokuapp.com,Seed
+true,GET,https://juice-shop.herokuapp.com/robots.txt,Seed
+true,GET,https://juice-shop.herokuapp.com/sitemap.xml,Seed
+true,GET,https://juice-shop.herokuapp.com/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/styles.css,
+true,GET,https://juice-shop.herokuapp.com/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/main.js,
+true,GET,https://juice-shop.herokuapp.com/ftp,
+false,GET,https://www.cookiesandyou.com/,Out of Scope
+false,GET,https://angular.dev/best-practices/security,Out of Scope
+false,GET,http://www.w3.org/2000/svg,Out of Scope
+false,GET,http://www.w3.org/1999/xhtml,Out of Scope
+false,GET,http://www.w3.org/1999/xlink,Out of Scope
+false,GET,http://www.w3.org/XML/1998/namespace,Out of Scope
+false,GET,http://www.w3.org/2000/xmlns/,Out of Scope
+false,GET,http://www.w3.org/1998/Math/MathML,Out of Scope
+true,GET,https://juice-shop.herokuapp.com/,
+true,GET,https://juice-shop.herokuapp.com/ftp/quarantine,
+true,GET,https://juice-shop.herokuapp.com/ftp/acquisitions.md,
+true,GET,https://juice-shop.herokuapp.com/ftp/announcement_encrypted.md,
+true,GET,https://juice-shop.herokuapp.com/ftp/coupons_2013.md.bak,
+true,GET,https://juice-shop.herokuapp.com/ftp/eastere.gg,
+true,GET,https://juice-shop.herokuapp.com/ftp/encrypt.pyc,
+true,GET,https://juice-shop.herokuapp.com/ftp/incident-support.kdbx,
+true,GET,https://juice-shop.herokuapp.com/ftp/legal.md,
+true,GET,https://juice-shop.herokuapp.com/ftp/package-lock.json.bak,
+true,GET,https://juice-shop.herokuapp.com/ftp/package.json.bak,
+true,GET,https://juice-shop.herokuapp.com/ftp/suspicious_errors.yml,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/fileServer.js:59:18,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/fileServer.js:43:13,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/layer.js:95:5,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/index.js:328:13,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/index.js:286:9,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/index.js:365:14,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/index.js:376:14,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/index.js:421:3,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/index.js:280:10,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/index.js:149:39,
+false,GET,https://owasp.org/,Out of Scope
+false,GET,https://owasp-juice.shop/,Out of Scope
+false,GET,https://socket.io/docs/v3/migrating-from-2-x-to-3-0/,Out of Scope
+false,GET,https://www.googleapis.com/oauth2/v1/userinfo?alt=json,Out of Scope
+false,GET,https://github.com/juice-shop/juice-shop,Out of Scope
+false,GET,https://youtube.com/embed/$,Out of Scope
+false,GET,https://player.vimeo.com/video/$,Out of Scope
+false,GET,https://ponzico.win/ponzico.pdf,Out of Scope
+false,GET,https://www.sec.gov/investor/alerts/ia_virtualcurrencies.pdf,Out of Scope
+false,GET,https://accounts.google.com/o/oauth2/v2/auth,Out of Scope
+false,GET,https://www.freeprivacypolicy.com/,Out of Scope
+false,GET,https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm,Out of Scope
+false,GET,https://explorer.dash.org/address/Xr556RzuwX6hg5EGpkybbv5RanJoZN17kW,Out of Scope
+false,GET,https://etherscan.io/address/0x0f933ab9fcaaa782d0279c300d73750e1311eae6,Out of Scope
+false,GET,https://pwning.owasp-juice.shop/companion-guide/latest/part3/donations.html,Out of Scope
+false,GET,http://shop.spreadshirt.com/juiceshop,Out of Scope
+false,GET,http://shop.spreadshirt.de/juiceshop,Out of Scope
+false,GET,https://www.stickeryou.com/products/owasp-juice-shop/794,Out of Scope
+false,GET,http://leanpub.com/juice-shop,Out of Scope
+false,GET,https://opensea.io/collection/juice-shop,Out of Scope
+false,GET,https://twitter.com/,Out of Scope
+false,GET,https://twitter.com/intent/tweet?text,Out of Scope
+false,GET,https://testnets.opensea.io/assets/mumbai/0xf4817631372dca68a25a18eb7a0b36d54f3dbcf7/0,Out of Scope
+false,GET,https://testnets.opensea.io/0x8343d2eb2B13A2495De435a1b15e85b98115Ce05,Out of Scope
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/styles.css,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/main.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/styles.css,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/main.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/styles.css,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/main.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/styles.css,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/express/lib/router/assets/public/main.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/styles.css,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/app/node_modules/serve-index/assets/public/main.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/assets/public/favicon_js.ico,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/styles.css,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/chunk-24EZLZ4I.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/chunk-T3PSKZ45.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/chunk-4MIYPPGW.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/chunk-LHKS7QUN.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/chunk-TWZW5B45.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/polyfills.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/scripts.js,
+true,GET,https://juice-shop.herokuapp.com/app/build/routes/assets/public/main.js,
+true,GET,https://juice-shop.herokuapp.com/ftp/,
+true,GET,https://juice-shop.herokuapp.com/ftp/quarantine/juicy_malware_linux_amd_64.url,
+true,GET,https://juice-shop.herokuapp.com/ftp/quarantine/juicy_malware_linux_arm_64.url,
+true,GET,https://juice-shop.herokuapp.com/ftp/quarantine/juicy_malware_macos_64.url,
+true,GET,https://juice-shop.herokuapp.com/ftp/quarantine/juicy_malware_windows_64.exe.url,
